@@ -31,7 +31,7 @@ print("Square root of the number:",square(b))
 ```
 
 ## Output:
-![Square root of two numbers](SR of two numbers.png)
+![Square root of two numbers](SR.png)
 
 
 ## Result:
